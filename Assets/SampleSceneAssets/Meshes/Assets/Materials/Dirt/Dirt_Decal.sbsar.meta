@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26cbac3692317504185be8ab48fd7690
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 4fc865c85e3be03498dfa08750b196e9, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/SampleSceneAssets/Meshes/Assets/Materials/Dirt/Dirt_Decal.sbsar
